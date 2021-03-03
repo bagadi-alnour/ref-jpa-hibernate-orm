@@ -1,0 +1,13 @@
+
+i
+java:S1192"SDefine a constant instead of duplicating this literal "/WEB-INF/ajout.jsp" 3 times.(éº™
+w
+java:S19894"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(éº™
+|
+java:S19899"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(òäö˜ùÿÿÿÿ
+w
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(éº™
+w
+java:S1989."aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(éº™
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÆÒçıÿÿÿÿ
